@@ -33,4 +33,4 @@ python dedect-mask-video.py
 ![](https://github.com/Melihemin/mask-dedection/blob/main/plot.png)
 
 ## Feedback
-![Gmail](melihemin10@gmail.com)
+![Gmail](mailto:melihemin10@gmail.com)
